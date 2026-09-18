@@ -1,0 +1,6 @@
+{
+  "name": "BB - The ASCII-Art Demo for AAlib",
+  "description": "Faithful web recreation of the legendary 1997 AAlib audiovisual demo BB by AA-Project, featuring authentic ASCII rendering, Scream Tracker 3 music, and all original scenes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
